@@ -74,9 +74,7 @@
         <tr><td>США</td><td><a href="https://flagcdn.com/w320/us.png" target="_blank"><img src="https://flagcdn.com/w40/us.png"></a></td></tr>
         <tr><td>Боливия</td><td><a href="https://flagcdn.com/w320/bo.png" target="_blank"><img src="https://flagcdn.com/w40/bo.png"></a></td></tr>
       </table>
-    </td>
-    <!-- Африка -->
-    <td valign="top">
+      <!-- Африка -->
       <h3>Африка</h3>
       <table>
         <tr><th>Страна</th><th>Флаг</th></tr>
@@ -96,7 +94,7 @@
         <tr><td>Уганда</td><td><a href="https://flagcdn.com/w320/ug.png" target="_blank"><img src="https://flagcdn.com/w40/ug.png"></a></td></tr>
       </table>
     </td>
-  </tr>
+    </tr>
 </table>
 <table>
   <tr>
